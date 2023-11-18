@@ -78,4 +78,12 @@ footer {
     main p {
         padding-block: 20px;
     }
+
+    * {
+        font-size: 20px;
+    }
+    body {
+        width: 100%;
+    }
+
 }
